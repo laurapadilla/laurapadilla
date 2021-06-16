@@ -1,6 +1,8 @@
-### hola ✌️
+# hola 🤙
 
+I'm a creative developer based in Pittsburugh and soon → Philadelphia. 
 
-I'm a creative developer based in Pittsburugh and soon → Philadelphia
-
-stalk me at [my website](http://www.lauracodes.com) + [twitter](https://twitter.com/1aurapadilla)
+### stalk me at: <br>
+🔗 [my website](http://www.lauracodes.com)
+<br>
+📟 [twitter](https://twitter.com/1aurapadilla)
