@@ -1,6 +1,6 @@
 # hola 🤙
 
-I'm a web developer based in Pittsburugh and soon → Philadelphia. 
+I'm a web developer based in Philadelphia. 
 
 ### stalk me at: <br>
 🔗 [my website](http://www.lauracodes.com)
